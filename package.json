@@ -1,0 +1,22 @@
+{
+  "name": "sentence-seed-2",
+  "private": true,
+  "version": "2.0.0-alpha.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "idb": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tesseract.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "vite-plugin-pwa": "latest"
+  }
+}
